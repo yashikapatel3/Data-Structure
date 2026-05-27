@@ -124,7 +124,6 @@ void reverseTraverse()
 }
 void del()
 {
-
 }
 void main()
 {
